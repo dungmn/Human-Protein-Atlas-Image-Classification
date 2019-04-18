@@ -1,0 +1,12 @@
+fix lai so data
+fix ty le 9:1
+co so danh gia 9:1? co tot hon rate #
+fix màu slide dataset
+lý do merge 3 màu:
+optimize: ?
+quăng struc lên
+train model Resnet34 ?
+mảng ngưỡng giá trị ?
+lý do sử dụng yellow: có thêm thông tin gì ddos?
+tăng cường dữ liệu mấy thằng ít nhất
+cho 4 ảnh vào 4 mạng # ..
